@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PIM2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="cinexperience2/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PIM2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PIM2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../DAO/BilheteriaDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../DAO/FilmesDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../DAO/FormasPagamentoDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../DAO/ProgramacoesDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../DAO/SalasDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../DAO/SessoesDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../DAO/TarifasDAO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/BilheteriaForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/FilmesForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/FormasPagamentoForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/MainForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/ProgramacoesForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/RelatoriosForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/SalasForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/SessoesForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ViewObjects/Forms/TarifasForm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../assinaturas.h" />
+		<Unit filename="../constantes.h" />
+		<Unit filename="../globais.h" />
+		<Unit filename="../main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tipos.h" />
+		<Unit filename="../utilitarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../utilitarios.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

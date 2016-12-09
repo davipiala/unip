@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1480272366 source:/home/davipiala/Documentos/PIM2/main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"utilitarios.h"
+	"apresentacao.h"
+	"globais.h"
+	"constantes.h"
+	"colors.h"
+
+1479947426 source:/home/davipiala/Documentos/PIM2/persistencia.c
+	<stdio.h>
+	"cinexperience.h"
+	"constantes.h"
+
+1480007172 source:/home/davipiala/Documentos/PIM2/apresentacao.c
+	"apresentacao.h"
+	"constantes.h"
+	"tipos.h"
+	<stdio.h>
+	<time.h>
+
+1479580338 /home/davipiala/Documentos/PIM2/cinexperience.h
+
+1480119761 /home/davipiala/Documentos/PIM2/persistencia.h
+
+1479144676 /home/davipiala/Documentos/PIM2/utilitarios.h
+
+1481138116 source:/home/davipiala/Documentos/PIM2/utilitarios.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"colors.h"
+	"constantes.h"
+
+1479580754 /home/davipiala/Documentos/PIM2/apresentacao.h
+
+1480116824 source:/home/davipiala/Documentos/PIM2/formularios.c
+	"apresentacao.h"
+	"constantes.h"
+	"tipos.h"
+	<stdio.h>
+
+1480272875 source:/home/davipiala/Documentos/PIM2/menus.c
+	<stdio.h>
+	<time.h>
+	"apresentacao.h"
+	"constantes.h"
+	"tipos.h"
+	"assinaturas.h"
+	"colors.h"
+
+1480982643 /home/davipiala/Documentos/PIM2/constantes.h
+	<stdio.h>
+
+1481130580 /home/davipiala/Documentos/PIM2/tipos.h
+
+1480974228 /home/davipiala/Documentos/PIM2/globais.h
+	"tipos.h"
+
+1480643043 source:/home/davipiala/Documentos/PIM2/DAO/salasDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480642959 source:/home/davipiala/Documentos/PIM2/DAO/filmesDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480553784 source:/home/davipiala/Documentos/PIM2/DAO/horariosDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480967696 source:/home/davipiala/Documentos/PIM2/DAO/precosDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481135053 /home/davipiala/Documentos/PIM2/assinaturas.h
+	"tipos.h"
+
+1480114488 /home/davipiala/Documentos/PIM2/colors.h
+
+1481130288 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/SalasForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+
+1481124328 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/FilmesForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+
+1480637645 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/HorariosForm.c
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+	<stdio.h>
+
+1480968800 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/PrecosForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+
+1481134462 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/BilheteriaForm.c
+	<stdio.h>
+	<time.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+	"../../assinaturas.h"
+	"../../colors.h"
+
+1480971536 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/ProgramacaoForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../assinaturas.h"
+	"../../tipos.h"
+
+1480272396 source:/home/davipiala/Documentos/PIM2/DAO/ProgramacaoDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+	"../colors.h"
+
+1480969233 source:/home/davipiala/Documentos/PIM2/DAO/programacoesDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+	"../colors.h"
+
+1481135121 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/RelatoriosForm.c
+	<stdio.h>
+	<time.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+	"../../assinaturas.h"
+	"../../colors.h"
+
+1480642939 source:/home/davipiala/Documentos/PIM2/DAO/bilheteriaDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481129793 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/MainForm.c
+	<stdio.h>
+	<time.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+	"../../assinaturas.h"
+	"../../colors.h"
+
+1480642991 source:/home/davipiala/Documentos/PIM2/DAO/formapagamentoDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481124899 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/FormasPagamentoForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+
+1480643214 source:/home/davipiala/Documentos/PIM2/DAO/sessoesDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481122971 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/SessoesForm.c
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+	<stdio.h>
+
+1480969666 source:/home/davipiala/Documentos/PIM2/DAO/tarifasDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480969235 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/tarifasForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+
+1481124858 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/TarifasForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../tipos.h"
+	"../../assinaturas.h"
+	"../../globais.h"
+
+1481135338 source:/home/davipiala/Documentos/PIM2/DAO/BilheteriaDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481063856 source:/home/davipiala/Documentos/PIM2/DAO/FilmesDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480642991 source:/home/davipiala/Documentos/PIM2/DAO/FormasPagamentoDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481134461 source:/home/davipiala/Documentos/PIM2/DAO/ProgramacoesDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+	"../colors.h"
+	"../assinaturas.h"
+
+1481054682 source:/home/davipiala/Documentos/PIM2/DAO/SalasDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480986886 source:/home/davipiala/Documentos/PIM2/DAO/SessoesDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../apresentacao.h"
+	"../globais.h"
+	"../constantes.h"
+
+1480978376 source:/home/davipiala/Documentos/PIM2/DAO/TarifasDAO.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"../utilitarios.h"
+	"../globais.h"
+	"../constantes.h"
+
+1481124083 source:/home/davipiala/Documentos/PIM2/ViewObjects/Forms/ProgramacoesForm.c
+	<stdio.h>
+	"../../apresentacao.h"
+	"../../constantes.h"
+	"../../assinaturas.h"
+	"../../tipos.h"
+
